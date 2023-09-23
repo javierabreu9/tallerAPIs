@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color:#e74f13 ;
+    color: darkred;
+    padding: 20px;
+    text-align: left;
+}
+
+h1{
+    font-style: italic;
+    color: gold;
+}
+
+.trago {
+    width: 20%;
+    height: 20%;
+}
+
+ul{
+    color: burlywood;
+}
